@@ -1,3 +1,20 @@
+---
+layout: default
+title: Editorial
+parent: HackTheBox
+grand_parent: Writeups
+---
+
+# Editorial
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Escaneo de puertos abiertos con nmap
 

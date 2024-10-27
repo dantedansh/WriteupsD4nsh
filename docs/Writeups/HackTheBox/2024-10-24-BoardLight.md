@@ -1,20 +1,21 @@
 ---
-layout: single
-title: Maquina BoardLight - Hack The box
-excerpt: "En este post vamos a resolver la maquina BoardLight de HackTheBox"
-date: 
-classes: wide
-header:
-  teaser: /assets/images/Maquinas/BoardLight/BoardLight.png
-  teaser_home_page: true
-  icon: /assets/images/hackthebox.webp
-categories:
-  - vulnerabilidad web
-tags:  
-  - HackTheBox
+layout: default
+title: BoardLight
+parent: HackTheBox
+grand_parent: Writeups
 ---
 
-<br>
+# BoardLight
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
 ## Escaneo con Nmap y whatweb
 
 Empezaremos a escanear si existen puertos abiertos usando **nmap**:
